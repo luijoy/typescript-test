@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "antd": "^3.12.4",
+    "eslint": "^5.12.1",
+    "expo-cli": "^2.6.14"
+  },
+  "devDependencies": {
+    "@types/expo": "^31.0.8",
+    "eslint-config-react-native-wcandillon": "^1.0.3"
+  }
+}
